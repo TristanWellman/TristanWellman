@@ -6,4 +6,4 @@
 - 📫 How to reach me: wellmanboy06@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanWellman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanWellman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
